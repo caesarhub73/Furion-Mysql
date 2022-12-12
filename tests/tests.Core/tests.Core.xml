@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tests.Core</name>
+    </assembly>
+    <members>
+        <member name="T:tests.Core.AadUser">
+            <summary>
+            Aad用户表
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.KeyDate">
+            <summary>
+            数据生成时间
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.DateType">
+            <summary>
+            时间类型
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.Id">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.Name">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.Email">
+            <summary>
+            用户邮箱
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUser.Status">
+            <summary>
+            用户状态
+            </summary>
+        </member>
+        <member name="T:tests.Core.AadUserInfo">
+            <summary>
+            Aad用户信息表
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUserInfo.KeyDate">
+            <summary>
+            数据生成时间
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUserInfo.DateType">
+            <summary>
+            时间类型
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUserInfo.Id">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:tests.Core.AadUserInfo.Name">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AADConnection": "Data Source=abiapacxmmysql01.mysql.database.chinacloudapi.cn;Database=pbs_db;User ID=pbs_db_biportal_owner@abiapacxmmysql01;Password=mfPIDBp&K@EL#g^x;pooling=true;port=3306;sslmode=none;Charset=utf8;"
+  }
+}
